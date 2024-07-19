@@ -1,2 +1,2 @@
 print('thu')
-print('kkdksdjks')
+print('khu')
